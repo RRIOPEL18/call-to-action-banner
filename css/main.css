@@ -13,7 +13,7 @@ body {
 
 div {
   overflow: hidden;
-  position: absolute;
+  position: relative;
 }
 
 h2 {
