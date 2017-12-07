@@ -54,13 +54,14 @@ p {
 .btn {
   font-family: Roboto, sans-serif;
   font-size: 1.5rem;
-  padding: .5em;
+  padding: .7em;
   border-radius: 6px;
   background-color: #333;
   color: #fff;
   text-decoration: none;
   position: absolute;
-  bottom: 0;
+  bottom: 15%;
+  left: 40%;
 }
 
 .btn:hover {
