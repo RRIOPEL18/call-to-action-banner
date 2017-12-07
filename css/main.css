@@ -18,14 +18,16 @@ div {
 
 h2 {
 font-family: "Roboto Condensed", sans-serif;
-font-size: 2rem;
+font-size: 3rem;
 position: absolute;
+top: 0;
 }
 
 p {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   position: absolute;
-  bottom: 0;
+  top: 0;
+  font-size: 1.5rem;
 }
 
 .btn-big {
